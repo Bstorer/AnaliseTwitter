@@ -1,3 +1,5 @@
+#Aqui estão funções para interagir com banco de dados da azure
+
 from datetime import datetime
 import pyodbc
 import time

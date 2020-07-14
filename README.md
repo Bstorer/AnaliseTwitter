@@ -11,3 +11,6 @@ Foi montado um robô com python capaz de minerar dados do twitter e subi-los em 
 Parte 2 - PowerBi
 
 Uma vez no banco de dados são chamados por consulta atrvés de um arquivo powerbi que se utiliza de apis de serviços cognitivos da Azure para fazer uma análise dos sentimentos dos textos e então exibir os assuntos em alta e os sentimentos dos usuarios, favoritos, compartilhamentos, entre outras informações de cada um. Assim é criado um relatório capaz de exibir em tempo real essas informações se o robô em python estiver 24 horas dentro de uma virtual machine subindo informações no banco de dados.
+
+
+Obs:Esse é um projeto antigo meu e na época não mexia ainda com spacy e outras bibliotecas mais específicas para nlp, sendo assim os métodos aqui para pré-processamento de texto não são os mais enxutos possíveis, mas são eficientes para resolver o problema proposto pelo projeto.

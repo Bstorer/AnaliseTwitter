@@ -1,3 +1,5 @@
+#Aqui estão funções para controlar browser e minerar informações do twitter 
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time

@@ -1,3 +1,5 @@
+#arquivo principal, primeiro que deve ser ativado 
+
 import datetime
 from browser_functions import init 
 from dateutil.relativedelta import relativedelta
