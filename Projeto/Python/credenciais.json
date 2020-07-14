@@ -1,0 +1,8 @@
+{
+	"index" : 0,
+	"server" : "servidorbancoexemplo.database.windows.net",
+	"database" : "DataBaseExemplo",
+	"username" : "userexemplo",
+	"password" : "senhaexemplo",
+	"driver" : "{ODBC Driver 17 for SQL Server}"
+}
